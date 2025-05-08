@@ -6,19 +6,14 @@
   Real-time result display.
 </p>
 <hr>
-How to Play
-1. Choose Stone, Paper, or Scissors.
-2. The computer will randomly choose one too.
-3. Results are shown instantly based on traditional game rules:
-    .
-
-🎮 How to Play
-
-Choose either Stone 🪨, Paper 📄, or Scissors ✂️
-The computer will randomly select its move
-The winner is decided based on the rules:
-    Stone beats Scissor
-    Scissors beats Paper
-    Paper beats Stone
+<h4>🎮 How to Play</h4>
+  <li>
+    <ol>Choose either Stone 🪨, Paper 📄, or Scissors ✂️</ol>
+    <ol>The computer will randomly select its move</ol>
+    <ol>The winner is decided based on the rules:</ol>
+        <ul>Stone beats Scissor</ul>
+        <ul>Scissors beats Paper</ul>
+        <ul>Paper beats Stone</ul>
+  </li>
 
 
