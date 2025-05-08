@@ -7,13 +7,15 @@
 </p>
 <hr>
 <h4>🎮 How to Play</h4>
-  <li>
-    <ol>Choose either Stone 🪨, Paper 📄, or Scissors ✂️</ol>
-    <ol>The computer will randomly select its move</ol>
-    <ol>The winner is decided based on the rules:</ol>
-        <ul>Stone beats Scissor</ul>
-        <ul>Scissors beats Paper</ul>
-        <ul>Paper beats Stone</ul>
-  </li>
-
+  <ol>
+    <li>Choose either Stone 🪨, Paper 📄, or Scissors ✂️</li>
+    <li>The computer will randomly select its move</li>
+    <li>The winner is decided based on the rules:
+      <ul>
+        <li>Stone🪨 beats Scissor✂️</li>
+        <li>Scissors✂️ beats Paper📄</li>
+        <li>Paper📄 beats Stone🪨</li>
+      </ul>
+    </li>
+  </ol>
 
